@@ -155,20 +155,29 @@
 &emsp;**2.内部集成与运输保护：** <br>
 &emsp;在工厂预制阶段，所有设备，如发电机（选配）、CDU、机柜等，已在模块内部牢固安装并完成初步调试。针对运输过程中的震动和冲击，关键设备会采用专用的缓冲固定装置和防位移设计。线缆和管路在模块内预先铺设并固定，最大限度地减少了运输可能造成的损坏或移位。<br>
 <img width="2000" height="1227" alt="image" src="https://github.com/user-attachments/assets/60abf292-5ad8-4dd4-bccc-a298c1d79b49" />
+
 ![DJI_0856](https://github.com/user-attachments/assets/cf91ad70-ac2a-4619-a974-d3e75b69cf27)
-<center>集装箱整体运输</center>
-&emsp;** 现场安装的流程与精度控制** <br>
+
+集装箱整体运输
+&emsp;** 现场安装的流程与精度控制**
+
 &emsp;现场安装是检验模块化设计成败的关键，其核心是精度和标准化。<br>
 &emsp;1.精准的基础准备与模块就位：现场工作始于精确的测量放线。模块安装前，场地需完成平整硬化的地基处理，并预埋好与城市/客户管网对接的水、天然气、市电、废热、网络等主干接口。模块运抵后，使用大型吊车进行吊装。就位时，依靠高精度的激光测距仪和全站仪进行测量，确保模块就位误差控制在毫米级。<br>
 &emsp;2.螺栓连接与气密性保障：模块之间的结构连接全部采用高强度螺栓。施工人员会使用扭矩扳手严格按照预设的扭矩值进行紧固，并在螺栓上标记防松线，以便日后检查。这种“干式”作业彻底告别了混凝土浇筑的养护周期，施工速度不受季节影响。<br>
 &emsp;3.系统插接与快速联通：模块间的所有机电管路接口（如强弱电、水管）和电气接口（如母线槽）均采用标准化、快接式的设计。现场人员进行对位插接即可。这种“即插即用”的理念，大幅降低了对现场工人技术等级的依赖，并保证了连接的可靠性。<br>
 &emsp;4.系统联调与验收：在所有模块安装和接口连接完成后，进行整个数据中心的系统联合调试。这包括供电系统切换测试、制冷系统温控精度测试、动环监控系统联动测试等。由于大部分系统已在工厂经过预测试，现场联调周期可比传统模式缩短70%以上。<br>
 <img width="2337" height="1557" alt="image (1)" src="https://github.com/user-attachments/assets/61c36089-f0ba-4260-8283-ac36d15f6463" />
+
 <center>活楼模块的吊装</center>
+
 <img width="2346" height="1555" alt="image" src="https://github.com/user-attachments/assets/b0279e4e-03c9-4d61-a3dd-1b680b1d034f" />
+
 <center>构件的安装</center>
+
 ![IMG_20221103_111022](https://github.com/user-attachments/assets/5929b0d0-6472-44d5-bada-fed28b12c4ef)
+
 <center>高强螺栓连接</center>
+
 <img width="2142" height="1432" alt="image (2)" src="https://github.com/user-attachments/assets/4da692d7-2821-49db-82d0-74900ab23034" />
 <center>现场管线连接</center>
 | 对比维度   | 传统数据中心                                                                 | 远大BAB算力电池                                                                 |
